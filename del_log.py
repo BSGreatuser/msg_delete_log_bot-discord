@@ -5,7 +5,7 @@
 ###################
 
 import discord
-import asyncio
+import datetime
 
 client = discord.Client()
 
